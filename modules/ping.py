@@ -26,8 +26,8 @@ async def ping(client: Client, message: Message):
     msg = await message.edit("<b>〽️ Pinging...</b>")
 
     try:
-        latency = round(client.ping, 2)
-    except AttributeError:
+        latency = round(await client.ping(), 2)
+    except (AttributeError, TypeError):
         latency = "N/A"
 
     await msg.edit(
