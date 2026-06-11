@@ -26,13 +26,18 @@ from utils import modules_help, prefix
 async def ping(client: Client, message: Message):
     start = time.time()
 
-    msg = await message.edit("<b>Pinging...</b>")
+    msg = await message.edit("<b>〽️ Pinging...</b>")
 
-    latency = round((time.time() - start) * 1000, 2)
+    end = time.time()
+    latency = round((end - start) * 1000, 2)
 
-    await msg.edit(f"<b>🏓Pong! {latency}ms</b>")
+    await msg.edit(
+        f"<b>🏓 Pong!!</b>\n"
+        f"<b>┣ Latency:</b> <code>{latency} ms</code>\n"
+        f"<b>┗ Status:</b> <i>Server is alive ✅</i>"
+    )
 
 
 modules_help["ping"] = {
-    "ping": "Check ping to Telegram servers",
+    "ping": "Check actual ping/latency to Telegram servers",
 }
