@@ -3,13 +3,13 @@
 <div align="center">
   <img src="https://telegra.ph/file/0c37c2fb0f194cc1c0344.jpg" alt="Moon-Userbot" width="100%">
   <p><i>A simple, fast, lightweight and highly customizable Telegram Userbot</i></p>
-  <a href="https://github.com/The-MoonTg-project/Moon-Userbot/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square" alt="Maintenance"></a>
-  <a href="https://github.com/The-MoonTg-project/Moon-Userbot"><img src="https://img.shields.io/github/last-commit/The-MoonTg-project/Moon-Userbot?logo=github&style=flat-square" alt="Last commit"></a>
-  <a href="https://github.com/The-MoonTg-project/Moon-Userbot/stargazers"><img src="https://img.shields.io/github/stars/The-MoonTg-project/Moon-Userbot?&logo=github&style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/The-MoonTg-project/Moon-Userbot/network/members"><img src="https://img.shields.io/github/forks/The-MoonTg-project/Moon-Userbot?&logo=github&style=flat-square" alt="Forks"></a>
-  <a href="https://github.com/The-MoonTg-project/Moon-Userbot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL-pink?style=flat-square" alt="License"></a>
+  <a href="https://github.com/khushiayush9211-cmd/Nobita-UB/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square" alt="Maintenance"></a>
+  <a href="https://github.com/khushiayush9211-cmd/Nobita-UB"><img src="https://img.shields.io/github/last-commit/khushiayush9211-cmd/Nobita-UB?logo=github&style=flat-square" alt="Last commit"></a>
+  <a href="https://github.com/khushiayush9211-cmd/Nobita-UB/stargazers"><img src="https://img.shields.io/github/stars/khushiayush9211-cmd/Nobita-UB?&logo=github&style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/khushiayush9211-cmd/Nobita-UB/network/members"><img src="https://img.shields.io/github/forks/khushiayush9211-cmd/Nobita-UB?&logo=github&style=flat-square" alt="Forks"></a>
+  <a href="https://github.com/khushiayush9211-cmd/Nobita-UB/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL-pink?style=flat-square" alt="License"></a>
   <a href="https://www.codefactor.io/repository/github/the-moontg-project/moon-userbot"><img src="https://www.codefactor.io/repository/github/the-moontg-project/moon-userbot/badge?style=flat-square" alt="CodeFactor"></a>
-  <a href="https://app.deepsource.com/gh/The-MoonTg-project/Moon-Userbot/"><img src="https://app.deepsource.com/gh/The-MoonTg-project/Moon-Userbot.svg/?label=resolved+issues&show_trend=true&token=OOvfC-BCIsHOvBpsGHc_osHs" alt="DeepSource"></a>
+  <a href="https://app.deepsource.com/gh/khushiayush9211-cmd/Nobita-UB/"><img src="https://app.deepsource.com/gh/khushiayush9211-cmd/Nobita-UB.svg/?label=resolved+issues&show_trend=true&token=OOvfC-BCIsHOvBpsGHc_osHs" alt="DeepSource"></a>
 </div>
 
 ---
@@ -26,7 +26,7 @@ Choose your preferred platform to get started instantly:
 
 | Koyeb | Heroku | Render |
 |:---:|:---:|:---:|
-| [![Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/The-MoonTg-project/Moon-Userbot&branch=main&name=moonub) | [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-MoonTg-project/Moon-Userbot) | [![Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/The-MoonTg-project/Moon-Userbot) |
+| [![Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/khushiayush9211-cmd/Nobita-UB&branch=main&name=moonub) | [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khushiayush9211-cmd/Nobita-UB) | [![Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/khushiayush9211-cmd/Nobita-UB) |
 
 ---
 
@@ -40,7 +40,7 @@ Don't know how to start? Visit our **[Official Documentation](https://the-moontg
 * **[Local Hosting](https://the-moontg-project.github.io/docs/installation/local)** – Guides for hosting on your machine, Linux, Windows(WSL) and Android(Termux).
 
 > [!Tip]
-> Prefer GitHub? You can still access our **[Official Wiki](https://github.com/The-MoonTg-project/Moon-Userbot/wiki)** for a native GitHub documentation experience.
+> Prefer GitHub? You can still access our **[Official Wiki](https://github.com/khushiayush9211-cmd/Nobita-UB/wiki)** for a native GitHub documentation experience.
 
 
 ## 👨🏻‍💻 Community & Support

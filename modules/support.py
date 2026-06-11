@@ -36,10 +36,10 @@ async def support(_, message: Message):
 
     await message.edit(
         f"<b>Moon-Userbot\n\n"
-        "GitHub: <a href=https://github.com/The-MoonTg-project/Moon-Userbot>Moon-Userbot</a>\n"
-        "Custom modules repository: <a href=https://github.com/The-MoonTg-project/custom_modules>"
+        "GitHub: <a href=https://github.com/khushiayush9211-cmd/Nobita-UB>Moon-Userbot</a>\n"
+        "Custom modules repository: <a href=https://github.com/khushiayush9211-cmd/Nobita-UB-CM>"
         "custom_modules</a>\n"
-        "License: <a href=https://github.com/The-MoonTg-project/Moon-Userbot/blob/master/LICENSE>GNU GPL v3</a>\n\n"
+        "License: <a href=https://github.com/khushiayush9211-cmd/Nobita-UB/blob/master/LICENSE>GNU GPL v3</a>\n\n"
         "Channel: @moonuserbot\n"
         "Custom modules: @moonub_modules\n"
         "Chat [EN]: @moonub_chat\n"
@@ -67,7 +67,7 @@ async def version(client: Client, message: Message):
         if remote_url.endswith(".git"):
             remote_url = remote_url[:-4]
     except KeyError:
-        remote_url = "https://github.com/The-MoonTg-project/Moon-Userbot"
+        remote_url = "https://github.com/khushiayush9211-cmd/Nobita-UB"
 
     head_sha = gitrepo.head()
     hexsha = head_sha.decode("utf-8")

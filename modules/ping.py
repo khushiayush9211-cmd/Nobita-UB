@@ -17,14 +17,20 @@
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
+import time
 
 from utils import modules_help, prefix
 
 
 @Client.on_message(filters.command(["ping", "p"], prefix) & filters.me)
 async def ping(client: Client, message: Message):
-    latency = await client.ping()
-    await message.edit(f"<b>Pong! {latency}ms</b>")
+    start = time.time()
+
+    msg = await message.edit("<b>Pinging...</b>")
+
+    latency = round((time.time() - start) * 1000, 2)
+
+    await msg.edit(f"<b>🏓Pong! {latency}ms</b>")
 
 
 modules_help["ping"] = {

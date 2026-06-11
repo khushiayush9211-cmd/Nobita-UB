@@ -42,7 +42,7 @@
       "required": true
     },
     "STRINGSESSION": {
-      "description": "Pyrogram V2 Session String. Don't use bots or else you'll be responsible for your actions. Gen yourself https://github.com/The-MoonTg-project/Moon-Userbot?tab=readme-ov-file#-optional-vars.",
+      "description": "Pyrogram V2 Session String. Don't use bots or else you'll be responsible for your actions. Gen yourself https://github.com/khushiayush9211-cmd/Nobita-UB?tab=readme-ov-file#-optional-vars.",
       "required": true
     },
     "APIFLASH_KEY": {
@@ -82,7 +82,7 @@
       "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview"
     },
     {
-      "url": "https://github.com/The-MoonTg-project/heroku-buildpack-yt-dlp"
+      "url": "https://github.com/khushiayush9211-cmd/heroku-buildpack-yt-dlp"
     }
   ]
 }
